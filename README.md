@@ -1,4 +1,4 @@
-<div align=center>![maptalks](https://maptalks.org/resource/image/logo.png)</div>
+![maptalks](https://maptalks.org/resource/image/logo.png)
 ### Maptalks.js  
 learning Maptalks.js  
 ## 说明  
